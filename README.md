@@ -114,8 +114,9 @@ dynamicText.templateText = "New text with {player.health}";
 ```
 Assets/
 ├── TMP_DynamicText.cs              ← Core runtime component
-├── TMP_DynamicTextEditor.cs        ← Custom Inspector + Preview
-└── TMP_DynamicTextCreator.cs       ← Menu item (GameObject → UI)
+├── Editor/
+    ├── TMP_DynamicTextEditor.cs        ← Custom Inspector + Preview
+    └── TMP_DynamicTextCreator.cs       ← Menu item (GameObject → UI)
 ```
 
 ---
