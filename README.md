@@ -2,7 +2,7 @@
 
 **Powerful dynamic text system for TextMeshPro in Unity**
 
-Easily create rich, data-driven UI texts using simple placeholders like `{player.health}`, `{Application.version}`, or `{Time.time:F2}` — no more manual string formatting in Update()!
+Easily create rich, data-driven UI texts using simple placeholders like `{player.health}`, `{Application.version}`, or `{Time.time:F2}` — no more manual string formatting in scripts!
 
 ---
 
