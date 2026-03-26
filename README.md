@@ -24,10 +24,7 @@ Easily create rich, data-driven UI texts using simple placeholders like `{player
 
 ## Installation
 
-1. Copy the three scripts into your Unity project:
-   - `TMP_DynamicText.cs`
-   - `TMP_DynamicTextEditor.cs`
-   - `TMP_DynamicTextCreator.cs`
+1. Copy the files into your Unity project.
 
 2. Make sure **TextMeshPro** is installed (Window → TextMeshPro → Import TMP Essential Resources).
 
