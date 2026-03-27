@@ -122,8 +122,8 @@ Assets/
 └── Plugins/
     └── CustomTMPro/
         ├── TMP_DynamicText.cs
-        ├── Editor/
-            └── TMP_DynamicTextEditor.cs
+        └── Editor/
+            ├── TMP_DynamicTextEditor.cs
             └── TMP_DynamicTextCreator.cs
 ```
 
